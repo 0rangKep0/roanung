@@ -1,0 +1,5 @@
+# Daftar User ID yang valid
+# Format: satu user ID per baris
+# Baris yang diawali # adalah komentar
+
+rimuru
